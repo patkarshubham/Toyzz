@@ -1,0 +1,7 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#FCEFE0"/>
+  <rect x="170" y="360" width="440" height="26" rx="13" fill="#A96E3D"/>
+  <rect x="200" y="300" width="440" height="26" rx="13" fill="#C18752"/>
+  <rect x="230" y="240" width="440" height="26" rx="13" fill="#D69C67"/>
+  <text x="146" y="82" fill="#6A3E22" font-size="42" font-family="Arial" font-weight="700">Balance Beam Trio</text>
+</svg>

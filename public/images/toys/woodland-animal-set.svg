@@ -1,0 +1,10 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#FDF2E4"/>
+  <ellipse cx="270" cy="340" rx="70" ry="45" fill="#B67A45"/>
+  <ellipse cx="390" cy="330" rx="85" ry="50" fill="#C98C58"/>
+  <ellipse cx="530" cy="342" rx="78" ry="46" fill="#A86C3A"/>
+  <circle cx="300" cy="286" r="24" fill="#B67A45"/>
+  <circle cx="425" cy="275" r="26" fill="#C98C58"/>
+  <circle cx="562" cy="288" r="24" fill="#A86C3A"/>
+  <text x="110" y="82" fill="#6A3E22" font-size="42" font-family="Arial" font-weight="700">Woodland Animal Set</text>
+</svg>

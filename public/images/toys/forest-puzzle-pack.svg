@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#FDF0DE"/>
+  <rect x="220" y="190" width="360" height="230" rx="20" fill="#C88F5D"/>
+  <rect x="260" y="230" width="120" height="70" rx="12" fill="#8B5E34"/>
+  <rect x="410" y="230" width="130" height="70" rx="12" fill="#A87443"/>
+  <rect x="305" y="320" width="170" height="70" rx="12" fill="#D8A06D"/>
+  <text x="135" y="82" fill="#6A3E22" font-size="42" font-family="Arial" font-weight="700">Forest Puzzle Pack</text>
+</svg>

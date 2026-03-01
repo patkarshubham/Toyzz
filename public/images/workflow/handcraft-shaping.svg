@@ -1,0 +1,11 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="24" fill="#FFF7EE"/>
+  <rect x="72" y="252" width="496" height="26" rx="10" fill="#C28A59"/>
+  <path d="M148 232L218 164L288 232" fill="#D9A273"/>
+  <path d="M352 232L422 164L492 232" fill="#E0B085"/>
+  <rect x="236" y="118" width="20" height="120" rx="6" fill="#9CA3AF"/>
+  <rect x="228" y="98" width="36" height="24" rx="6" fill="#6B7280"/>
+  <circle cx="456" cy="132" r="18" fill="#6B7280"/>
+  <rect x="444" y="150" width="24" height="88" rx="8" fill="#9CA3AF"/>
+  <text x="72" y="74" fill="#7C4A2C" font-family="Arial" font-size="30" font-weight="700">Handcraft Shaping</text>
+</svg>

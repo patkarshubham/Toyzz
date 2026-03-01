@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "PineToyzz",
+  "short_name": "PineToyzz",
+  "description": "PineToyzz - Explore premium pine-wood toyz with rich product view, wishlist, smart cart, pincode delivery check, and quick checkout flow built for easy shopping.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A6CF7",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/logo/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

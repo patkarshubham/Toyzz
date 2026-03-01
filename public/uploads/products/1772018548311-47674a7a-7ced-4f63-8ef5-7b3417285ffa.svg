@@ -1,0 +1,7 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#FDF1E2"/>
+  <path d="M220 360 C300 260, 480 260, 560 360" stroke="#B77945" stroke-width="26" stroke-linecap="round"/>
+  <rect x="345" y="190" width="90" height="170" rx="45" fill="#D59B68"/>
+  <rect x="330" y="350" width="120" height="70" rx="20" fill="#AD6F3F"/>
+  <text x="135" y="82" fill="#6A3E22" font-size="42" font-family="Arial" font-weight="700">Garden Sand Scoop</text>
+</svg>

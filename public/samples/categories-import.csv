@@ -1,0 +1,5 @@
+name                  , slug                  , description                                                  , image                                         , sortOrder, isActive
+Building Blocks       , building-blocks       , "Pine wood block sets for creative construction."            , /uploads/categories/building-blocks.jpg       , 1        , true
+Stacking & Sorting    , stacking-sorting      , "Sorting and stacking toys to improve hand-eye coordination.", /uploads/categories/stacking-sorting.jpg      , 2        , true
+Educational Montessori, educational-montessori, "Montessori inspired toys for practical learning skills."    , /uploads/categories/educational-montessori.jpg, 3        , true
+
